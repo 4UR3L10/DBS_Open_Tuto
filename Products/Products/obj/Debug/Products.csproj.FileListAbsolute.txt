@@ -1,0 +1,10 @@
+C:\Users\Aurelio\source\repos\Products\Products\bin\Debug\ProductDB.mdf
+C:\Users\Aurelio\source\repos\Products\Products\bin\Debug\ProductDB_log.ldf
+C:\Users\Aurelio\source\repos\Products\Products\bin\Debug\Products.exe.config
+C:\Users\Aurelio\source\repos\Products\Products\bin\Debug\Products.exe
+C:\Users\Aurelio\source\repos\Products\Products\bin\Debug\Products.pdb
+C:\Users\Aurelio\source\repos\Products\Products\obj\Debug\Products.Form1.resources
+C:\Users\Aurelio\source\repos\Products\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\Aurelio\source\repos\Products\Products\obj\Debug\Products.csproj.GenerateResource.cache
+C:\Users\Aurelio\source\repos\Products\Products\obj\Debug\Products.exe
+C:\Users\Aurelio\source\repos\Products\Products\obj\Debug\Products.pdb
